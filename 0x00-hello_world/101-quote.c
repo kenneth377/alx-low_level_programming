@@ -1,4 +1,5 @@
 #include <stio.h>
+#include <unistd.h>
 
 /**
  * main - is a C code which prints a line to the standard error
